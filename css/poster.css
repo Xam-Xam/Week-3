@@ -13,7 +13,7 @@ html {
 
 .movie-card {
     margin-top: 5rem;
-    height: 800px;
+    height: 500px;
     text-align: center;
     
 }
@@ -78,7 +78,7 @@ html {
 }
 
 .movie-info-overview-title {
-    text-transform:uppercase;
+    text-transform: capitalize;
     letter-spacing: 0.2rem;
 }
 
@@ -113,7 +113,7 @@ html {
 }
 
 footer {
-    margin-top: 26rem;
+    margin-top: 44rem;
     text-align: center;
     color: #777;
 }
